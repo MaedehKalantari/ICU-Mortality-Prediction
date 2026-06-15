@@ -97,26 +97,10 @@ Due to class imbalance, multiple evaluation metrics were used:
 
 ---
 
-## 7. Limitations
-
-- Dataset is based on a single hospital system (MIMIC-III)
-- External validation is required for generalization
-- Clinical interpretability and ethical validation are necessary before real-world use
-- This project is for research and educational purposes only
-
----
-
-## 8. Conclusion
+## 7. Conclusion
 
 This project demonstrates the application of machine learning techniques for ICU mortality prediction using structured healthcare data. The results highlight the importance of model interpretability and appropriate evaluation metrics in medical AI applications.
 
-Future work may include:
-- Feature engineering improvements
-- Deep learning models
-- Multi-hospital validation
-- Explainable AI techniques (e.g., SHAP)
-
----
 
 ## 9. References
 
